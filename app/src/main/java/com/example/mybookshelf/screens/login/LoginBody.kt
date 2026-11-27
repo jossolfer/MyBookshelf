@@ -86,7 +86,7 @@ fun RegisterButton() {
         Text("Registrar")
     }
 }
-
+/*KLK MI LOCO*/
 @Composable
 fun LoginButton(userName: String, goToLogin: (String) -> Unit) {
     Button(
